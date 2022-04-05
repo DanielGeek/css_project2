@@ -23,3 +23,7 @@ SASS: https://sass-lang.com/
 Compiladores / empaquetadores de JS:
 BABEL: https://babeljs.io/
 Webpack: https://webpack.js.org/
+
+https://codearmy.co/el-camino-del-desarrollador-web-en-2018-64efc5b68853
+
+https://roadmap.sh/roadmaps/frontend.png
