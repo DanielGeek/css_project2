@@ -1,0 +1,1 @@
+https://static.platzi.com/media/user_upload/anatomia%20de%20html-fc475d3a-6d91-41b5-a893-ee4790dcb637.jpg
