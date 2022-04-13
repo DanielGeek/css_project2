@@ -1,0 +1,9 @@
+/* Combinators: Son */
+div > p {
+  color: red;
+}
+
+/* Combinators: Descendant */
+/* div p {
+  color: red;
+} */
