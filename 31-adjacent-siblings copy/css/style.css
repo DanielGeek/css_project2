@@ -1,0 +1,4 @@
+/* Combinators: General Sibling */
+h2 ~ p {
+  color: red;
+}
