@@ -29,3 +29,38 @@ Webpack: https://webpack.js.org/
 https://codearmy.co/el-camino-del-desarrollador-web-en-2018-64efc5b68853
 
 https://roadmap.sh/roadmaps/frontend.png
+
+`english`
+
+# Frontend is the part of a program or device that a user can directly access. They are all the web design and development technologies that run in the browser and that are responsible for interactivity with users.
+
+# A Frontend programmer must know code that the browser understands (HTML, CSS and JavaScript) to be able to use some frameworks or libraries that expand its capabilities to create any type of user interface. React, Redux, Angular, Bootstrap, Foundation, LESS, Sass, Stylus and PostCSS are some of them.
+
+# Tools handled by a frontend
+Because a frontend is the developer that is going to handle things on the client side, the technologies that it is going to work with are:
+
+HTML: https://devdocs.io/html/
+CSS: https://devdocs.io/css/
+JavaScript: https://devdocs.io/javascript/
+Frameworks de CSS para frontend:
+Bootstrap: https://getbootstrap.com/
+Foundation CSS: https://get.foundation/
+Materialize CSS: https://materializecss.com/
+
+
+# JavaScript frameworks for frontend:
+
+React JS: https://es.reactjs.org/
+Angular JS: https://angular.io/
+Vue JS: https://vuejs.org/
+Preprocesadores de CSS:
+Stylus: https://stylus-lang.com/
+SASS: https://sass-lang.com/
+
+# JS compilers/packers:
+BABEL: https://babeljs.io/
+Webpack: https://webpack.js.org/
+
+https://codearmy.co/el-camino-del-desarrollador-web-en-2018-64efc5b68853
+
+https://roadmap.sh/roadmaps/frontend.png
