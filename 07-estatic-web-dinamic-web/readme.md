@@ -24,3 +24,32 @@ https://salomongeeks.com/
 
 # dinamic web
 https://www.linkedin.com/feed/
+
+`English`
+
+# Websites behave differently depending on how they were designed from conception, taking user interaction into account. Here we will see the differences between static and dynamic websites:
+
+# Static Websites
+## The information it contains remains constant and static. It is not updated with user interaction. It is suitable for making landing pages (information or landing pages) or blogs. They will always be shown the same for all users.
+
+# Dynamic Websites
+## Also known as web applications, they update their information regarding user interaction. They depend on a database, from which they extract and enter information. They will be different, depending on the user using it and the information being entered.
+
+# Example of static pages:
+
+## restaurant menu
+## travel blog
+## Information page of a business
+## Example dynamic pages:
+
+## Sales reporting system
+## linkedin
+## On line bank
+
+https://static.platzi.com/media/user_upload/maxresdefault-2b633f87-cdaa-46a0-aa2e-1f08852bb02b.jpg
+
+# static web
+https://salomongeeks.com/
+
+# dinamic web
+https://www.linkedin.com/feed/
