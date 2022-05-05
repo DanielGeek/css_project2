@@ -14,13 +14,18 @@ body {
 .container {
   border: 0.3rem solid black;
   display: flex;
+  flex-wrap: wrap;
 }
 .box {
-  width: 10rem;
   height: 10rem;
+  /* elementos bajan si queda espacio y toman todo el tamanio */
+  flex-basis: 10rem;
+  flex-grow: 1;
 }
 .box1 {
   background-color: blue;
+  /* toma el 100% de lo que sobre */
+  flex-grow: 1;
 }
 .box2 {
   background-color: blueviolet;
