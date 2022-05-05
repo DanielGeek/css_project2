@@ -1,0 +1,10 @@
+/* mala practica, mejor usar en link del html */
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Koulen&display=swap');
+
+h1 {
+  font-family: 'Allura', cursive;
+}
+
+p {
+  font-family: 'Koulen', cursive;
+}
